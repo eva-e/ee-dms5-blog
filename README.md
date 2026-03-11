@@ -1,4 +1,4 @@
-## Course Title: Digiatl Media Studio 5: Audiovision > Course Code: COMM 2747
+## Course Title: Digital Media Studio 5: Audiovision > Course Code: COMM 2747
 
 ## Assignment 4: Blog >
 
