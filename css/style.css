@@ -21,7 +21,7 @@ li {
 
 hr.solid {
   height: 1px; /* thickness of the line */
-  background-color: rgba(93, 128, 85, 0.243);
+  background-color: rgba(70, 164, 49, 0.342);
   border: none; /* no border */
   margin-left: 26%;
   width: 50%;
@@ -29,7 +29,7 @@ hr.solid {
 
 hr.solid2 {
   height: 1px; /* thickness of the line */
-  background-color: rgba(93, 128, 85, 0.243);
+  background-color: rgba(70, 164, 49, 0.342);
   border: none; /* no border */
   margin-left: 26%;
   width: 50%;
@@ -42,7 +42,7 @@ h1 {
   margin-right: auto;
   padding-top: 5%;
   text-align: left;
-  color: rgb(93, 128, 85);
+  color: rgb(131, 201, 122);
   font-weight: 800;
   font-size: 1.9rem;
   font-family: "Newsreader";
@@ -51,7 +51,7 @@ h1 {
 
 /* css for text aligned left and content centered!! (take note for other projects) */
 h2 {
-  color: rgb(119, 158, 110);
+  color: rgb(13, 21, 14);
   font-weight: 600;
   width: 600px;
   margin-left: auto;
@@ -62,8 +62,8 @@ h2 {
 }
 /* create an id to customise one heading of h2 */
 #first-week {
-  color: rgb(119, 158, 110);
-  font-weight: 600;
+  color: rgb(131, 201, 122);
+  font-weight: 800;
   width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -73,7 +73,7 @@ h2 {
 }
 
 h3 {
-  color: rgb(153, 200, 160);
+  color: rgb(166, 216, 160);
   /* rgb(191, 221, 184) */
   font-weight: 600;
   font-size: 0.96rem;
@@ -86,7 +86,7 @@ h3 {
 }
 
 h4 {
-  color: rgb(119, 158, 110);
+  color: rgb(166, 216, 160);
   /* rgb(191, 221, 184) */
   font-weight: 700;
   font-size: 1.1rem;
@@ -104,7 +104,7 @@ h5 {
   margin-top: 70px;
   margin-bottom: 20px;
   text-align: left;
-  color: rgb(93, 128, 85);
+  color: rgb(131, 201, 122);
   font-weight: 800;
   font-size: 1.9rem;
   font-family: "Newsreader";
@@ -179,11 +179,11 @@ a {
   text-align: center;
   border-radius: 30px;
   padding: 10px;
-  background-color: rgba(153, 200, 160, 0.719);
+  background-color: rgb(166, 216, 160);
 }
 
 a:hover {
-  background-color: rgb(98, 170, 104);
+  background-color: rgb(131, 201, 122);
 }
 
 /* .img-arrow {
@@ -242,8 +242,8 @@ strong {
 }
 
 footer {
-  color: rgb(119, 158, 110);
-  font-weight: 600;
+  color: rgb(247, 162, 196);
+  font-weight: 700;
   width: 600px;
   margin-left: auto;
   margin-right: auto;
