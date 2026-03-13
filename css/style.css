@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 body {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   font-size: 0.9rem;
 }
 
@@ -17,6 +17,11 @@ li {
   text-align: left;
   margin-top: 20px;
   font-size: 1.1rem;
+}
+
+#name1 {
+  /* color: #8cfa9e; */
+  text-decoration: underline;
 }
 
 hr.solid {
@@ -34,6 +39,14 @@ hr.solid2 {
   margin-left: 26%;
   width: 50%;
   margin-top: 3%;
+}
+
+hr.solid3 {
+  height: 1px; /* thickness of the line */
+  background-color: rgba(70, 164, 49, 0.342);
+  border: none; /* no border */
+  margin-left: 26%;
+  width: 50%;
 }
 
 h1 {
@@ -95,6 +108,7 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
+  margin-bottom: -2%;
 }
 
 h5 {
@@ -126,20 +140,24 @@ h6 {
 }
 
 .post-headings h1 {
-  color: rgba(105, 91, 73, 0.901);
+  color: rgb(131, 201, 122);
 }
 
 .post-headings h4 {
   margin-bottom: 5%;
-  color: rgba(105, 91, 73, 0.901);
+  color: rgb(166, 216, 160);
+}
+
+.post-headings h3 {
+  /* text-decoration: underline; */
 }
 
 .post-headings h5 {
-  color: rgba(105, 91, 73, 0.901);
+  color: rgb(131, 201, 122);
 }
 
 .post-headings h6 {
-  color: rgba(105, 91, 73, 0.901);
+  color: rgb(131, 201, 122);
 }
 
 img {
@@ -161,14 +179,15 @@ img {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
+  margin-top: -2%;
   margin-bottom: 20px;
 }
 
 .back-button a {
-  background-color: rgba(110, 95, 76, 0.599);
+  background-color: rgb(166, 216, 160);
 }
 .back-button a:hover {
-  background-color: rgba(110, 95, 76, 0.887);
+  background-color: rgb(131, 201, 122);
 }
 
 a {
@@ -242,7 +261,7 @@ strong {
 }
 
 footer {
-  color: rgb(247, 162, 196);
+  color: #ff91b5;
   font-weight: 700;
   width: 600px;
   margin-left: auto;
