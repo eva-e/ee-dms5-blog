@@ -98,6 +98,10 @@ h3 {
   margin-top: 20px;
 }
 
+#uppercase {
+  text-transform: uppercase;
+}
+
 h4 {
   color: rgb(166, 216, 160);
   /* rgb(191, 221, 184) */
