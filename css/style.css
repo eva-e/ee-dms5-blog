@@ -105,6 +105,18 @@ h3 {
   text-align: left;
   margin-top: 20px;
 }
+#h3a {
+  color: rgb(166, 216, 160);
+  /* rgb(191, 221, 184) */
+  font-weight: 600;
+  font-size: 0.96rem;
+  font-family: "Raleway";
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 30px;
+}
 
 #uppercase {
   text-transform: uppercase;
