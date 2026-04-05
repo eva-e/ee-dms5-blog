@@ -19,7 +19,7 @@ img {
   max-height: 50%;
 }
 
-#calvin-images {
+#collab-images {
   margin-top: 5%;
   margin-bottom: 1%;
   margin-left: 26%;
@@ -257,6 +257,26 @@ a {
   border-radius: 30px;
   padding: 10px;
   background-color: rgb(166, 216, 160);
+}
+
+#links {
+  background-color: transparent;
+  cursor: pointer;
+  color: rgb(80, 76, 73);
+  font-weight: 300;
+  font-family: "Kanit";
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 20px;
+  font-size: 1.1rem;
+  border-radius: 20px;
+  padding: 3px;
+}
+
+#links:hover {
+  background-color: rgb(131, 201, 122);
 }
 
 a:hover {
