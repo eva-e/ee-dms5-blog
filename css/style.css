@@ -7,6 +7,10 @@ body {
   font-size: 0.9rem;
 }
 
+strong {
+  color: rgb(123, 190, 114);
+}
+
 img {
   margin-top: 5%;
   margin-bottom: 1%;
@@ -15,8 +19,17 @@ img {
   max-height: 50%;
 }
 
+#calvin-images {
+  margin-top: 5%;
+  margin-bottom: 1%;
+  margin-left: 26%;
+  max-width: 30%;
+  max-height: 30%;
+  display: flex;
+}
+
 li {
-  color: rgb(148, 122, 105);
+  color: rgb(80, 76, 73);
   font-weight: 300;
   font-family: "Kanit";
   width: 600px;
@@ -105,6 +118,7 @@ h3 {
   text-align: left;
   margin-top: 20px;
 }
+
 #h3a {
   color: rgb(166, 216, 160);
   /* rgb(191, 221, 184) */
@@ -172,9 +186,8 @@ h6 {
   color: rgb(166, 216, 160);
 }
 
-.post-headings h3 {
-  /* text-decoration: underline; */
-}
+/* .post-headings h3 { */
+/* text-decoration: underline; */
 
 .post-headings h5 {
   color: rgb(131, 201, 122);
@@ -206,6 +219,24 @@ h6 {
 }
 
 .back-button a:hover {
+  background-color: rgb(97, 165, 90);
+}
+
+.collab-button {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 4%;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.collab-button a {
+  background-color: rgb(166, 216, 160);
+}
+
+.collab-button a:hover {
   background-color: rgb(97, 165, 90);
 }
 
