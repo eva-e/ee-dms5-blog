@@ -19,6 +19,14 @@ img {
   max-height: 50%;
 }
 
+iframe {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 26%;
+  width: 500px;
+  height: 300px;
+}
+
 #collab-images {
   margin-top: 5%;
   margin-bottom: 1%;
